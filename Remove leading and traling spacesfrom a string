@@ -1,0 +1,3 @@
+a=input('enter the string')
+print('before appling the strip ')
+print('after removing the lstrip and rstrip',a.strip())
